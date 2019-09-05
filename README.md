@@ -17,7 +17,7 @@ GIT
 A step by step series of examples that tell you how to get a development env running on your machine
 
 Step 1: Clone github repository   
-        $ git clone <URL>
+        $ git clone *url*
 
 Step 2: Create a Virtual Enviornment (Using Anaconda)
         $ conda create --name <name of env> <package to be installed if any>
