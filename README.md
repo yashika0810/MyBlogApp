@@ -1,10 +1,10 @@
 # MyBlogApp
 This is an application named BlogApp made on Django framework. This application is focused on creating different Blogs where CRUD Operations are performed for creating, updating, reading and deleting the blogs. This application is build on python-3.7.4 version with Django 2.2 version.
 
-GETTING STARTED
+# GETTING STARTED
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-PREREQUISITES
+# PREREQUISITES
 
 DJANGO-2.2
 PYTHON-3.X
