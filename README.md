@@ -12,7 +12,7 @@ IDE-OF YOUR CHOICE
 PACKAGE MANAGER-PIP/ANACONDA/VIRTUALENV
 GIT
 
-INSTALLATION:
+# INSTALLATION:
 
 A step by step series of examples that tell you how to get a development env running on your machine
 
@@ -28,7 +28,7 @@ Step 3: Install necessary project dependencies using requirements.txt
 Step 4: Run the server
         $ python manage.py runserver
   
-DEPLOYMENT:
+# DEPLOYMENT:
 
 Deploy it with Heroku. Here is a User Guide https://www.codementor.io/jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4
 
