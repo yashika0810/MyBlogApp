@@ -20,7 +20,7 @@ Step 1: Clone github repository
         $ git clone *url*
 
 Step 2: Create a Virtual Enviornment (Using Anaconda)
-        $ conda create --name <name of env> <package to be installed if any>
+        $ conda create --name *name of env* *package to be installed if any*
   
 Step 3: Install necessary project dependencies using requirements.txt
         $ pip install -r requirements.txt
